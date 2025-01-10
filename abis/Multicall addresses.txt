@@ -1,0 +1,34 @@
+1. Ethereum Mainnet
+
+	•	Address: 0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696
+	•	Deployed at Block: 8747248
+
+2. Binance Smart Chain (BSC)
+
+	•	Address: 0x1Ee38d535d541c55C9dae27B12edf090C608E6Fb
+	•	Deployed at Block: 6808615
+
+3. Polygon (Matic) Network
+
+	•	Address: 0x275617327c958bD06b5D6b871E7f491D76113dd8
+	•	Deployed at Block: 11550000
+
+4. Avalanche
+
+	•	Address: 0x0bdae777fbD0d4C26E1d2b8C8eD3Bf0436f31aD1
+	•	Deployed at Block: Check the latest deployment on the Avalanche explorer.
+
+5. Fantom
+
+	•	Address: 0x7ef1e804D2aFb7F793A8A7a1158Daeb3Ea1D70c32
+	•	Deployed at Block: Check the latest deployment on the Fantom explorer.
+
+6. Arbitrum
+
+	•	Address: 0x842eC2c7D803033Edf55E478F461Fc547Bc54EB2
+	•	Deployed at Block: Check the latest deployment on the Arbitrum explorer.
+
+7. Optimism
+
+	•	Address: 0x5e227AD1969Ea493B43F840cff78d08a6fc17796
+	•	Deployed at Block: Check the latest deployment on the Optimism explorer.
